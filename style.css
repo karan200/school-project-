@@ -1,3 +1,8 @@
-.Button{
-    background-color: chocolate;
+.Heading{
+    background-color: rgba(255, 167, 4, 0.945);
+    justify-items: center;
+}
+
+.Body{
+    background-color: yellow;
 }

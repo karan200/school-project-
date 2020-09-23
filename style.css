@@ -4,5 +4,21 @@
 }
 
 .Body{
-    background-color: yellow;
+    background-image: url("bg2.jpg");
+    background-color: #cccccc;
+    color: darkgreen;
+}
+.image{
+    border: black;
+    border-style: solid;
+    /* border-width: 1cm; */
+    /* //border-right: 0cm; */
+}
+.text{
+    border: black;
+    border-style: solid;
+    border-width: 0.2cm;
+}
+.img{
+    background-color: darkorange;
 }

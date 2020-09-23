@@ -1,6 +1,8 @@
 .Heading{
-    background-color: rgba(255, 167, 4, 0.945);
     justify-items: center;
+    background-image: url("bg.jpg");
+    background-color: #cccccc;
+    color: darkgreen;
 }
 
 .Body{

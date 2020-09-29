@@ -1,8 +1,9 @@
 .Heading{
+    /* background-color: rgba(255, 167, 4, 0.945); */
     justify-items: center;
     background-image: url("bg.jpg");
     background-color: #cccccc;
-    color: darkgreen;
+    color: rgb(72, 255, 0);
 }
 
 .Body{
@@ -22,5 +23,12 @@
     border-width: 0.2cm;
 }
 .img{
-    background-color: darkorange;
+    background-color: darkorangetar;
+}
+
+.co{
+  display: flex;
+  justify-content: flex-end;
+  color: darkred;
+  
 }
